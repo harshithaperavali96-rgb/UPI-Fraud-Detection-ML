@@ -1,0 +1,15 @@
+Model Used:
+Logistic Regression
+
+Dataset:
+UPI Transaction Dataset
+
+Target:
+Fraud (1)
+Genuine (0)
+
+Evaluation:
+Accuracy
+Precision
+Recall
+Confusion Matrix

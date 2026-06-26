@@ -1,0 +1,20 @@
+import pandas as pd
+
+data = pd.read_csv("dataset.csv")
+
+print("UPI Fraud Detection")
+
+print(data)
+
+fraud = data[data["Status"] == 1]
+
+genuine = data[data["Status"] == 0]
+
+print("\nFraud Transactions")
+print(fraud)
+
+print("\nGenuine Transactions")
+print(genuine)
+
+print("\nTotal Fraud:", len(fraud))
+print("Total Genuine:", len(genuine))

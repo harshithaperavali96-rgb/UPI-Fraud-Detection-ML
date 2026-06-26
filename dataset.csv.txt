@@ -1,0 +1,6 @@
+TransactionID,Amount,Location,Time,Device,Status
+1001,5000,Hyderabad,Morning,Android,0
+1002,15000,Delhi,Night,iPhone,1
+1003,3500,Chennai,Evening,Android,0
+1004,25000,Mumbai,Night,Laptop,1
+1005,800,Vijayawada,Morning,Android,0

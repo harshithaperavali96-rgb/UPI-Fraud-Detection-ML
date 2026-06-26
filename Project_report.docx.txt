@@ -1,0 +1,29 @@
+UPI Fraud Detection using Machine Learning
+
+Abstract
+This project detects fraudulent UPI transactions using transaction data and machine learning concepts.
+
+Software
+Python
+Pandas
+NumPy
+
+Dataset
+UPI Transaction Dataset
+
+Working
+The system loads transaction data, classifies fraudulent and genuine transactions, and displays the results.
+
+Advantages
+• Fast detection
+• Accurate analysis
+• Low cost
+• Easy to implement
+
+Future Scope
+• Real-time monitoring
+• AI-based fraud detection
+• Banking integration
+
+Conclusion
+Machine learning helps improve the security of digital payment systems by identifying suspicious transactions.
